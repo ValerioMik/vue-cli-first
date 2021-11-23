@@ -1,5 +1,5 @@
 <template>
-<h1></h1>
+    <img src="../assets/jumbo.gif" alt="">
 </template>
 
 <script>

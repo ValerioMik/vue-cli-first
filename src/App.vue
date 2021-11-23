@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/jumbo.gif" alt="">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <Title/>
     <Hero/>
